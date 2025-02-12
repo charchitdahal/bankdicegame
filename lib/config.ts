@@ -1,0 +1,2 @@
+export const SERVER_URL = process.env.NEXT_PUBLIC_SERVER_URL || 'https://bank-game-server.herokuapp.com';
+export const WS_URL = process.env.NEXT_PUBLIC_WS_URL || 'wss://bank-game-server.herokuapp.com';
